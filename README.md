@@ -1,18 +1,25 @@
-## Getting Started
+# SpillTheTea☕  - Java Chat App
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A stylish, socket-based Java chat application that lets users enjoy real-time one-on-one conversations. Built with Java Sockets and Swing, this project simulates the look and feel of a modern messenger—perfect for learning networking, multithreading, and GUI design.
 
-## Folder Structure
+## ✨ Features
+- 👤 Username-based chatting
+- 💬 Real-time messaging with dynamic UI updates
+- 📜 Auto-scroll and message formatting
+- 🧵 Multithreaded server to handle multiple clients concurrently
+- 🎨 Sleek and modern-looking Swing-based UI
+- 🚀 Secure and robust application
 
-The workspace contains two folders by default, where:
+## 🛠️Technologies used 
+- Java
+- Java Swing for UI
+- Java Socket for networking
+- Threading and Hashmap for user handling
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📷 Preview
+![Screenshot 2025-06-17 203031](https://github.com/user-attachments/assets/730a475f-023c-47e0-8644-dde8f71cf3e6)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 📌 To-Do
+- Emoji support
+- File sharing
+- Message History
